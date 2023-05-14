@@ -40,3 +40,10 @@ function threeSum(nums) {
         // and we'll repeat the process.
     }
 }
+
+
+let nflTeams = [24, 17, 7, 18, 25]
+
+for (let i = 0; i <= nflTeams.length - 1; i--) {
+
+}
